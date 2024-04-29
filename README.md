@@ -1,5 +1,7 @@
 # IoT
 
+- [**Electronics and security**](https://github.com/Limonadovy-joe/Electronics-and-security)
+  -  Basics for IT needs: definition of basic quantities, Ohm's law, series and parallel linear arrangement of resistors, overview of basic circuit solution methods, voltage divider, safety principles of working with electric current, relay, contactor
 - [**Basics of technical measurements and data processing**](https://github.com/Limonadovy-joe/Basics-of-technical-measurements-and-data-processing)
   -  Design and preparation of measurements. Accuracy and optimization of measurements, processing of measured values. Errors or measurement uncertainties. Regression methods, interpolation, etc.
 - [**Communication networks**](https://github.com/Limonadovy-joe/IoT-communication-networks)

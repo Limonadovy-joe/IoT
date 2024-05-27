@@ -8,4 +8,6 @@
   -  Basic principles of working and limitations of the network LoRa, SigFox, examples to be used in practice.
 - [**Sensors and their physical principles, basic aspects of data transfer between devices**](https://github.com/Limonadovy-joe/Sensors-and-their-physical-principles-basic-aspects-of-data-transfer-between-devices/edit/main/README.md)
   - Principles of physical quantity converters, most commonly used sensors in technical practice: temperature measurement, pressure measurement, flow measurement, concentration measurement, etc. Contact and non-contact sensors, methods of signal transmission - hardware interfaces, measurement with remote access: Wi-fi, RF, GSM and other methods of transmission.
+- [**DAQ systems**](https://github.com/Limonadovy-joe/daq-systems)
+  - Design of measuring chain and its components for ASSD - automated data collection systems.   Communication of DAQ systems with control systems /DCS - Distributed Control System/ and their typical implementations. 
 

@@ -11,5 +11,5 @@
 - [**DAQ systems**](https://github.com/Limonadovy-joe/daq-systems)
   - Design of measuring chain and its components for ASSD - automated data collection systems.   Communication of DAQ systems with control systems /DCS - Distributed Control System/ and their typical implementations.
 - [**Microcontrollers**](https://github.com/Limonadovy-joe/Microcontrollers/tree/main)
-  - Typical architecture and basic elements of microcontrollers, types of memories, interaction with analog and digital signals, low-level programming of microcontrollers in C, creation of drivers, work with interrupts, treatment of parallel processing, development tools. 
+  - Typical architecture and basic elements of microcontrollers, types of memories, interaction with analog and digital signals, low-level programming of microcontrollers in C, creation of drivers, work with interrupts, treatment of parallel processing, development tools. Aliasing. ESP memory management.
 
